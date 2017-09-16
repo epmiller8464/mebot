@@ -1,0 +1,11 @@
+node_modules
+dist
+.idea
+uploads/*.wav
+*.webm
+*.sh
+ig
+vm
+*.db
+*.env
+tokens
